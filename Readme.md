@@ -96,7 +96,7 @@ GET /api/v1/tickets/seats?eventId=1
     "status": "BOOKED",
     "event": {
       "id": 50,
-      "eventName": "RCB",
+      "eventName": "Taylor Swift",
       "totalCapacity": 100,
       "ticketsSold": 21,
       "createdAt": "2026-04-18T08:38:41.132522",
